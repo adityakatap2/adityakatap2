@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityakatap2
+- 👋 Hi, I’m Aditya 
 - 👀 I’m interested in React,HTML,CSS,Javascript
 - 🌱 I’m currently learning React,NodeJS,Express
 - 💞️ I’m looking to collaborate on ...
